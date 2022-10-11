@@ -1,4 +1,4 @@
-# Twitter_clone
+# Twitter_clone :small_blue_diamond:
 
 The landing page of twitter
 
